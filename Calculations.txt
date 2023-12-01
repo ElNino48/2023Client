@@ -1,0 +1,23 @@
+
+ID = 5 |	 Inv=36539.0  ds=0.9 |   dd=0.1 |   Rs=0.06 |   Rd=0.04 |   WACC=3500 |   EBIT=500 |   Amortization=15135 | 
+ => for id(5):  NOPAT = 15634.9, EVA = -1.278708651E8
+ID = 6 |	 Inv=20.0  ds=0 |   dd=1 |   Rs=0.09 |   Rd=0.1 |   WACC=200 |   EBIT=0 |   Amortization=0 | 
+ => for id(6):  NOPAT = -0.4, EVA = -4000.4
+ID = 7 |	 Inv=254.0  ds=0 |   dd=0 |   Rs=0 |   Rd=0 |   WACC=1 |   EBIT=0 |   Amortization=0 | 
+ => for id(7):  NOPAT = -0.2, EVA = -254.2
+ID = 8 |	 Inv=252.0  ds=0 |   dd=0 |   Rs=0 |   Rd=0 |   WACC=5 |   EBIT=0 |   Amortization=0 | 
+ => for id(8):  NOPAT = -0.3, EVA = -1260.3
+ID = 9 |	 Inv=1000.0  ds=0 |   dd=0 |   Rs=0 |   Rd=0 |   WACC=10 |   EBIT=0 |   Amortization=0 | 
+ => for id(9):  NOPAT = -0.2, EVA = -10000.2
+ID = 10 |	 Inv=91408.0  ds=0.4 |   dd=0.6 |   Rs=0 |   Rd=0 |   WACC=10 |   EBIT=0 |   Amortization=0 | 
+ => for id(10):  NOPAT = 0.0, EVA = -914080.0
+ID = 11 |	 Inv=3150.0  ds=0.8 |   dd=0.2 |   Rs=0.09 |   Rd=0.03 |   WACC=300 |   EBIT=400 |   Amortization=200 | 
+ => for id(11):  NOPAT = 599.9, EVA = -944400.1
+ID = 12 |	 Inv=2150.0  ds=0.8 |   dd=0.2 |   Rs=0.09 |   Rd=0.05 |   WACC=0.04 |   EBIT=400 |   Amortization=100 | 
+ => for id(12):  NOPAT = 499.9, EVA = 413.9
+ID = 13 |	 Inv=2.03E7  ds=0.8 |   dd=0.2 |   Rs=0.13 |   Rd=0.05 |   WACC=0.1 |   EBIT=0 |   Amortization=50000 | 
+ => for id(13):  NOPAT = 49999.76, EVA = -1980000.24
+ID = 14 |	 Inv=2.13E7  ds=0.9 |   dd=0.1 |   Rs=0.09 |   Rd=0.13 |   WACC=0 |   EBIT=0 |   Amortization=35000 | 
+ => for id(14):  NOPAT = 34999.86, EVA = 34999.86
+ID = 15 |	 Inv=0.0  ds=0 |   dd=0 |   Rs=0 |   Rd=0 |   WACC=0 |   EBIT=0 |   Amortization=0 | 
+ => for id(15):  NOPAT = 0.0, EVA = 0.0
